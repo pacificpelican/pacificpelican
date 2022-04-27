@@ -6,7 +6,7 @@
 - save your ebooks to a local web app
 	* files saved to a local directory
 	* metadata saved to a local JSON file
-	* includes editing tools forked from Seis
+	* includes editing tools forked from [seis](https://github.com/pacificpelican/seis)
 
 ## Creator, [web-component-boilerplate](https://github.com/pacificpelican/web-component-boilerplate)
 - start a web site quickly with this scaffold
