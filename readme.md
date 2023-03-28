@@ -19,7 +19,7 @@
 ### [Worm's Full Moon Estimator](https://pacificio.com/moon/)
 - find out where the moon is at in its cycle
 	* formulaic estimate
-	* offers appromximate days (with decimals) until next full moon
+	* offers approximate days (with decimals) until next full moon
 	* includes simple graphic
 
 
