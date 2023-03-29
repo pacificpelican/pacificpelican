@@ -23,6 +23,15 @@
 	* includes simple graphic
 
 
+## Archived Code
+
+### [Gallery 4](https://github.com/pacificpelican/gallery4)
+- a photos web site tool in PHP
+
+### [Portgage Bay](https://github.com/pacificpelican/portageBay)
+- a WordPress theme utilzing Material Design
+
+
 ## Business
 
 ### Partner, [AltaRedwood](https://jess-and-dan-mckeown.com)
