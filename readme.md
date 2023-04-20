@@ -4,6 +4,12 @@
 
 ## Code
 
+### [alta-redwood-store-code](https://github.com/pacificpelican/alta-redwood-store-code)
+- custom e-commerce solution
+	* powered by NodeJS
+	* save data to MongoDB
+	* utilizes data persistence tool [okconcept0](https://github.com/pacificpelican/okconcept0)
+
 ### [library2](https://github.com/pacificpelican/library2)
 - save your ebooks to a local web app
 	* files renamed and saved to a local directory
