@@ -8,7 +8,13 @@
 - custom e-commerce solution
 	* powered by NodeJS
 	* save data to MongoDB
-	* utilizes data persistence tool [okconcept0](https://github.com/pacificpelican/okconcept0)
+	* supports payments via Stripe API and email via Mailgun API
+
+### [djmblog](https://github.com/pacificpelican/djmblog)
+- a simple open PHP blog system
+	* account creation
+	* multi-user blog support
+	* comments system included
 
 ### [library2](https://github.com/pacificpelican/library2)
 - save your ebooks to a local web app
@@ -21,12 +27,6 @@
 	* includes web components powered by [htm](https://github.com/developit/htm)
 	* powers static sites like [this landing page](https://nosuchthingasnormalpodcast.com/)
 	* deployable to Netlify
-
-### [Worm's Full Moon Estimator](https://pacificio.com/moon/)
-- find out where the moon is at in its cycle
-	* formulaic estimate
-	* offers approximate days (with decimals) until next full moon
-	* includes simple graphic
 
 
 ## Archived Code
