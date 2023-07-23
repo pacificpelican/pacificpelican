@@ -16,12 +16,6 @@
 	* multi-user blog support
 	* comments system included
 
-### [library2](https://github.com/pacificpelican/library2)
-- save your ebooks to a local web app
-	* files renamed and saved to a local directory
-	* metadata saved to a local JSON file
-	* includes editing tools forked from [seis](https://github.com/pacificpelican/seis)
-
 ### [web-component-boilerplate](https://github.com/pacificpelican/web-component-boilerplate)
 - start a web site quickly with this scaffold
 	* includes web components powered by [htm](https://github.com/developit/htm)
@@ -36,6 +30,9 @@
 
 ### [Portgage Bay](https://github.com/pacificpelican/portageBay)
 - a WordPress theme utilzing Material Design
+
+### [library2](https://github.com/pacificpelican/library2)
+- save your ebooks to a local web app
 
 
 ## Business
