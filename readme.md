@@ -1,14 +1,14 @@
 # Daniel McKeown
 ### web developer
-### https://danmckeown.info
+### https://altaredwood.work
 
 ## Code
 
-### [alta-redwood-store-code](https://github.com/pacificpelican/alta-redwood-store-code)
-- custom e-commerce solution
-	* powered by NodeJS
-	* save data to MongoDB
-	* supports payments via Stripe API and email via Mailgun API
+### [Popcorn Silo](https://github.com/pacificpelican/popcorn-silo)
+- a file storage web site for the LAMP stack
+	* account creation with invites
+	* files can be private (default) or shared
+	* each shared file is a web page
 
 ### [djmblog](https://github.com/pacificpelican/djmblog)
 - a simple open PHP blog system
@@ -25,6 +25,10 @@
 
 ## Archived Code
 
+### [alta-redwood-store-code](https://github.com/pacificpelican/alta-redwood-store-code)
+- custom e-commerce solution
+	* powered by NodeJS, MongoDB, Stripe API, Mailgun API
+
 ### [Gallery 4](https://github.com/pacificpelican/gallery4)
 - a photos web site tool in PHP
 
@@ -37,15 +41,9 @@
 
 ## Business
 
-### Partner, [AltaRedwood](https://jess-and-dan-mckeown.com)
-- web development services
-- formed 2019
-
-### MBA, University of San Francisco
-- studied accounting and management
-- graduated 2005
-
+### Tech Help Site -- [danieljmckeown.com](https://danieljmckeown.com)
+- learn about Git, Notion, or other popular tools
+- check available appointments
 
 ## Contact
-- get in touch via Internet or mail
 - https://pacificio.com/contact
